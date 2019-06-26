@@ -2,14 +2,14 @@
 
 
 ## Motivation
-- We don?t know the project location.
+- We don't know the project location.
 - Geotag is provided for each project but underutilized.
 - Nobody knows geographical precision supplied by geotag.
 - In our evaluation on Managing Urban Spatial Growth (MUSG), we focus on spatial issues. Important to understand the - subnational level portfolio.
 
 ## Methodology
 1. Extract Geolocation ID from the global portfolio and merge them into MUSG portfolio
-2. Convert Geolocation ID into place name (state, adm2, adm3?)
+2. Convert Geolocation ID into place name (state, adm2, adm3,etc.)
 3. Visualize subnational portfolio
 4. (optional) Correlation with population
 
